@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ProjetoBOTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! -- in com.example.ProjetoBOTest
+com.example.ProjetoBOTest.testCalcularEficiênciaEnergetica -- Time elapsed: 0.003 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.toLowerCase()" because the return value of "com.example.Model.ProjetoSustentavel.getTipoFonte()" is null
+	at com.example.Model.ProjetoBO.calcularEficiênciaEnergetica(ProjetoBO.java:37)
+	at com.example.ProjetoBOTest.testCalcularEficiênciaEnergetica(ProjetoBOTest.java:18)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

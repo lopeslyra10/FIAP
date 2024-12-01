@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ProjetoDAOTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 84.15 s <<< FAILURE! -- in com.example.ProjetoDAOTest
+com.example.ProjetoDAOTest.testListarProjetos -- Time elapsed: 84.15 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Deve retornar ao menos um projeto da base de dados ==> expected: <true> but was: <false>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertTrue.failNotTrue(AssertTrue.java:63)
+	at org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:36)
+	at org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:214)
+	at com.example.ProjetoDAOTest.testListarProjetos(ProjetoDAOTest.java:20)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

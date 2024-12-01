@@ -1,0 +1,10 @@
+com\example\Controller\MyResource.class
+com\example\Model\AutomacaoBO.class
+com\example\Controller\ConnectionFactory.class
+com\example\Main.class
+com\example\Model\ProjetoBO.class
+com\example\Model\ProjetoSustentavel.class
+com\example\Controller\AutomacaoResource.class
+com\example\Model\Consumo.class
+com\example\Infra\ProjetoDAO.class
+com\example\Controller\ProjetoResource.class
