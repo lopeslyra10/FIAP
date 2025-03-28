@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8352591-7fdd-45e0-8f09-7533cc01593e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/ChallengeOficial/challange-front-end" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/ChallengeOficial/challange-front-end-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/ChallengeOficial/challange-front-end-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/ChallengeOficial/challange-front-end-3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/ChallengeOficial/challange-front-end-4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/aula-19-2sem/aula-01-2sem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/aula-19-2sem/aula-17-1tdspy-2sem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/aula-19-2sem/aula-19-1tdspy-2sem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/exemplosjs/exemplo-js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/exemplosjs/exemplo-js-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/exemplosjs/exemplo-js-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/flex-box/exercicio-flex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/flex-box/exercicio-flex-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Front-End Design Engineering/flex-box/exercicio-flex-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/src/main/java/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/src/main/java/com/example/controller/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/src/test/java/com/example/MyResourceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/controller/AutomacaoResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/controller/ConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/controller/MyResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/controller/ProjetoResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/infra/ProjetoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/model/Automacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/model/Consumo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/model/Projeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/classes/com/example/model/ProjetoSustentavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/2024-11-14T16-48-27_051.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/TEST-com.example.MyResourceTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/TEST-com.example.ProjetoBOTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/TEST-com.example.ProjetoDAOTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/com.example.MyResourceTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/com.example.ProjetoBOTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/surefire-reports/com.example.ProjetoDAOTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/test-classes/com/example/MyResourceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/test-classes/com/example/ProjetoDAOTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Java/simple-service/target/test-classes/com/example/ProjetoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Python/OlderProjects/# Imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Python/OlderProjects/gs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Python/OlderProjects/gs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Python/aula2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1TDSY/Python/codigo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/._pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/com/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/com/fiap/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/com/fiap/biblioteca/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/com/fiap/biblioteca/infra/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/biblioteca/src/main/java/br/com/fiap/biblioteca/infra/dao/._ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/biblioteca.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/controller/LivroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/controller/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/Correios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/Mensageiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/dominio/RepositorioAlunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/infra/dao/AlunoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/infra/dao/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/infra/viacep/CorreiosImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/java/br/com/fiap/biblioteca/service/AlunoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/main/resources/cria_tabela_alunos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/test/java/br/com/fiap/biblioteca/controller/LivroControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/test/java/br/com/fiap/biblioteca/controller/MyResourceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/test/java/br/com/fiap/biblioteca/dominio/CorreiosImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/controller/AlunoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/controller/LivroController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/controller/MyResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/Correios.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/Endereco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/Mensageiro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/dominio/RepositorioAlunos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/infra/dao/AlunoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/infra/dao/ConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/infra/viacep/CorreiosImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/br/com/fiap/biblioteca/service/AlunoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/target/classes/cria_tabela_alunos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca7.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2op4dfMSradwVr79Dx5E4a5MSPW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lopeslyra10",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FIAP/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8352591-7fdd-45e0-8f09-7533cc01593e" name="Changes" comment="" />
+      <created>1731553271955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731553271955</updated>
+    </task>
+    <servers />
+  </component>
+</project>

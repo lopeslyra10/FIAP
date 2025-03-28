@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Console_APP", "OOP_Console_APP\OOP_Console_APP.csproj", "{8C42D495-CD99-497B-BFA0-C5A681DE3AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_API", "WEB_API\WEB_API.csproj", "{00132E34-9ADA-4D70-BD83-CC8AB9D8D667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C42D495-CD99-497B-BFA0-C5A681DE3AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C42D495-CD99-497B-BFA0-C5A681DE3AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C42D495-CD99-497B-BFA0-C5A681DE3AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C42D495-CD99-497B-BFA0-C5A681DE3AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00132E34-9ADA-4D70-BD83-CC8AB9D8D667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00132E34-9ADA-4D70-BD83-CC8AB9D8D667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00132E34-9ADA-4D70-BD83-CC8AB9D8D667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00132E34-9ADA-4D70-BD83-CC8AB9D8D667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
