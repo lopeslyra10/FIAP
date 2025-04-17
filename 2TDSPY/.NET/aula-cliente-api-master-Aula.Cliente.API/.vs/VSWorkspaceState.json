@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Aula.Cliente.API",
+    "\\Aula.Cliente.API\\Controllers",
+    "\\Aula.Cliente.API\\Data",
+    "\\Aula.Cliente.API\\Data\\AppData",
+    "\\Aula.Cliente.API\\Migrations",
+    "\\Aula.Cliente.API\\Models",
+    "\\Aula.Cliente.API\\Utils"
+  ],
+  "SelectedNode": "\\Aula.Cliente.API\\Controllers\\ClienteController.cs",
+  "PreviewInSolutionExplorer": false
+}
